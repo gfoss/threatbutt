@@ -44,7 +44,7 @@ If you're a ninja, integrate this with your SIEM so that you know when attacks h
 
 4) Just run it, yo!
 
-# DISCLAIMER
+# [DISCLAIMER]
 
 1) This is an Obvious Parody...
 
@@ -56,7 +56,7 @@ If you're a ninja, integrate this with your SIEM so that you know when attacks h
 
 5) How do you computer?
 
-# LICENSE
+# [LICENSE]
 
 Copyright (c) 2015, Greg Foss
 All rights reserved.
