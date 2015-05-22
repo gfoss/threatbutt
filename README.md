@@ -47,9 +47,13 @@ If you're a ninja, integrate this with your SIEM so that you know when attacks h
 # DISCLAIMER
 
 1) This is an Obvious Parody...
+
 2) LogRhythm does not actually endorse any of this in any way, shape, or form
+
 3) All attribution data is randomly generated
+
 4) We don't even send any real data to their API, for obvious reasons
+
 5) How do you computer?
 
 # LICENSE
