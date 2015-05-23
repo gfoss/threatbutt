@@ -51,7 +51,9 @@ Write-EventLog -LogName Application -Source "The ThreatButt" -EntryType Informat
 echo ""
 $phrase
 }
+
 butt
+
 <#
                         ▄▄▄▓▓▓▓▓▓▌▄                                                 
                      ▄▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓µ                                              
