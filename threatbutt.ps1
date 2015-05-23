@@ -10,6 +10,8 @@
 # ThreatButt Attribution - 100% Accuracy Guaranteed, Every Time
 #=======================================================================================
 
+function butt {
+
 # Hide errors, because I can't PowerShell
 $ErrorActionPreference = 'silentlycontinue'
 
@@ -48,6 +50,8 @@ Write-EventLog -LogName Application -Source "The ThreatButt" -EntryType Informat
 # Tell us who did it!
 echo ""
 $phrase
+}
+butt
 <#
                         ▄▄▄▓▓▓▓▓▓▌▄                                                 
                      ▄▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓µ                                              

@@ -18,7 +18,11 @@ With this technology we can know instantly who attacked us, from where, using wh
 
 This script is super complicated and requires a Computer Science degree to operate:
 
-	PS:\> .\threatbutt.ps1
+	PS C:\> .\threatbutt.ps1
+
+After you run this once... You can simply invoke the threatbutt to replay the script:
+
+	PS C:\> butt
 
 No need to provide real data, the ThreatButt knows who is attacking you and why...
 
