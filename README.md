@@ -8,7 +8,7 @@ v0.1  --  May 2015
 
 # [About]
 
-ThreatButt + SIEM Integration = Defense in Derpth(TM)
+<a href="http://threatbutt.com/">ThreatButt</a> + <a href="http://logrhythm.com">SIEM</a> Integration = Defense in Derpth(TM)
 
 Currently everyone is being attacked, all the time, by people from all over the world. But, how do we know who is actually attacking our networks? Thankfully the folks at ThreatButt have developed a groundbreaking threaty threat attribution feed. Using their patented Clown Strike technology we are able to harness the raw power of private, hybrid, public and cumulus cloudsystem to bring Viking grade threat intelligence to any enterprise.
 

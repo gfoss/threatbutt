@@ -25,11 +25,13 @@ $buttIP = Write-Output (attribution)
 $buttHash = Get-Random -input "03bf4710574fcfc04aebeaa802a34d29", "f121eb65604a8e2490318de5dd454e83"
 $buttActor = Invoke-RestMethod -Method POST -Uri "http://threatbutt.io/api" -Body $buttIP
 $buttMalware = Invoke-RestMethod -Method POST -Uri "http://api.threatbutt.io/api/md5/$buttHash"
+$buttActor
 if ( $buttActor -eq "Please try again later" ) {
     $buttActor = "Chris Roberts"
-} if ( $buttActor -eq "Concentrate and ask again" ) {
-    $buttActor = "Squirrel"
-} else {
+} elseif ( $buttActor -eq "Concentrate and ask again" ) {
+    $buttActor = "a Squirrel"
+} elseif ($buttActor -eq "Upgrade to PREMIUM for more info") {
+    $buttActor = "an insider threat actor"
 }
 
 # Integrate Premium Threat Data Feeds
